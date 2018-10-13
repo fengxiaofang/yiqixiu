@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-894.000000, -2084.000000)">
+            <g id="Group-13" transform="translate(894.000000, 2084.000000)">
+                <g id="Group-9" transform="translate(0.000000, 0.571906)" fill="#FFFFFF">
+                    <g id="Group-12">
+                        <rect id="Rectangle-11" x="0" y="0" width="120" height="119.197324"></rect>
+                    </g>
+                </g>
+                <g id="Page-1" transform="translate(22.000000, 14.478261)">
+                    <path d="M-8.53932584e-05,20.6117621 L-8.53932584e-05,39.3574387 C-8.53932584e-05,45.8887377 3.33025169,51.9111044 8.53924045,54.7950547 L37.7437348,70.7416031 L37.7437348,41.2235241 L-8.53932584e-05,20.6117621 Z" id="Fill-12" fill="#2EB2E8"></path>
+                    <path d="M-8.53932584e-05,91.3537044 L-8.53932584e-05,73.9651809 C-8.53932584e-05,66.5856611 3.75721798,59.7998959 9.64935281,56.5766574 L37.7437348,41.2230152 L37.7437348,70.7410942 L-8.53932584e-05,91.3537044 Z" id="Fill-13" fill="#2D95B6"></path>
+                    <polygon id="Fill-14" fill="#C5551D" points="75.4874697 20.6117621 75.4874697 50.129841 37.7436494 70.7416031 37.7436494 41.2235241"></polygon>
+                    <path d="M37.7439056,41.3086855 L37.7439056,70.8267645 L75.4877258,91.4385265 L75.4877258,74.050003 C75.4877258,66.669635 71.7304225,59.8838697 65.8382876,56.6614794 L37.7439056,41.3086855 Z" id="Fill-15" fill="#EC661A"></path>
+                    <path d="M37.7439056,0.000169644132 L37.7439056,17.3886932 C37.7439056,24.7682129 41.501209,31.5539782 47.3933438,34.7772167 L75.4877258,50.1300107 L75.4877258,20.6119317 L37.7439056,0.000169644132 Z" id="Fill-16" fill="#EC661A"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
